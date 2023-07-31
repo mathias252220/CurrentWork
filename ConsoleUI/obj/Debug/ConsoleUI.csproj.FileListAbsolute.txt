@@ -1,0 +1,15 @@
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\bin\Debug\BattleShipsLibrary.dll
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\bin\Debug\BattleShipsLibrary.pdb
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\bin\Debug\ConsoleUI.exe.manifest
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\bin\Debug\ConsoleUI.application
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\obj\Debug\ConsoleUI.exe.manifest
+C:\Users\mathi\source\repos\BattleShipsApp\ConsoleUI\obj\Debug\ConsoleUI.application
