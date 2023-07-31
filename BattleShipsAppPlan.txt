@@ -1,0 +1,17 @@
+Build a small, two-player console game that has its roots in the game Battleship from Mattel.
+There will be a 25-spot grid (A1-E5). Each player will place five pegs on the board to represent their five ships. Players will then take turns firing on their opponent's ships. The first person to sink all five ships win.
+
+1. Create an instantiated class {PointModel} with the following properties:
+String {Row}
+int {Column}
+Bool {Ship}
+
+2. Build 2 player maps from the instantiated class
+List {player1Map}
+List {player2Map}
+Each map consists of 25 points, each {point} generated from {PointModel}
+
+3. Each player gets access to their map and changes the {Ship} property of 5 {point}s on their map.
+
+4. Each player takes turns checking the opponents {player#Map} for ships, one {point} at a time.
+
